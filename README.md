@@ -1,6 +1,8 @@
 # Thermal Configs
 Un/Modded Thermal Configs
 
+This thermal configs won't work if your rom/kernel have their own thermal solutions (msm simple thermal for example)
+
 # *-default
 Stock thermal configs
 
